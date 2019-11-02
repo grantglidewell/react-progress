@@ -24,7 +24,7 @@ const App = () => {
   };
   return (
     <div onClick={updatePercent}>
-      <h3>I'm all the way up! (click me)</h3>
+      <h3>Im all the way up!</h3>
       <ProgressBar colorShift={true} fillColor="orange" percent={percent} />
     </div>
   );
