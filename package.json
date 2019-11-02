@@ -1,0 +1,26 @@
+{
+  "name": "react-progress",
+  "version": "0.0.1",
+  "description": "react progress bar component",
+  "main": "dist/index.js",
+  "author": "Grant Glidewell <hello@grantglidewell.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack --watch --mode development",
+    "build": "webpack --mode production",
+    "prepublishOnly": "yarn build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:grantglidewell/react-progress.git"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-react": "^7.6.3",
+    "babel-loader": "^8.0.6",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
