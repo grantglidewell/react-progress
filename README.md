@@ -35,7 +35,7 @@ export default App;
 
 result:
 
-![progress bar in action]('/example.png?raw=true')
+![progress bar in action]('/example.gif?raw=true')
 
 ## Options
 
