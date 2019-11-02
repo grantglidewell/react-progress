@@ -35,7 +35,7 @@ export default App;
 
 result:
 
-![progress bar in action]('https://github.com/grantglidewell/react-progress/blob/master/example.png')
+![progress bar in action]('example.png')
 
 ## Options
 
