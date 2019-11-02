@@ -5,15 +5,15 @@ A React progress bar component
 ## Installation
 
 ```
-yarn add react-progress
-npm i react-progress
+yarn add react-percent-bar
+npm i react-percent-bar
 ```
 
 ## Usage
 
 ```javascript
 import React, { useState } from 'react';
-import ProgressBar from 'react-progress';
+import ProgressBar from 'react-percent-bar';
 
 const App = () => {
   const [percent, updatePercent] = useState(25);
