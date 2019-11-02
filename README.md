@@ -35,7 +35,7 @@ export default App;
 
 result:
 
-![progress bar in action](/example.gif?raw=true)
+![progress bar in action](https://raw.githubusercontent.com/grantglidewell/react-progress/master/example.gif)
 
 ## Options
 
